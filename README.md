@@ -10,4 +10,4 @@ Un Bot Francais Complet ! ON 24/7 ! Support a l'ecoute des Utilisateurs ! | The 
 ◈                                                                                               
 ◈  https://discordapp.com/oauth2/authorize?client_id=455774731225006110&permissions=8&scope=bot  
 ◈                                                                                               
-◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈
+◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈
